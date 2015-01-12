@@ -290,11 +290,11 @@ header li {
 header li:hover {
 	background: ##00CC99;
 	background: -moz-linear-gradient(top, #00CC99 0%, #00CC99 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#00CC99), color-stop(100%,#00CC99));
   background: -webkit-linear-gradient(top, #00CC99 0%,#00CC99 100%);
   background: -o-linear-gradient(top, #00CC99 0%,#00CC99 100%);
   background: -ms-linear-gradient(top, #00CC99 0%,#00CC99 100%);
-  background: linear-gradient(top, ##00CC99 0%,#00CC99 100%);
+  background: linear-gradient(top, #00CC99 0%,#00CC99 100%);
 }
 
 a.buttons {
